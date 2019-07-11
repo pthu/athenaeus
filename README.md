@@ -4,7 +4,7 @@ This repository contains the Deipnosophistae of Athenaeus in the text-fabric for
 ## versioning
 
 ### 1.1
-Problem with improper embedded `_sentence` features solved.
+Problem with improperly embedded `_sentence` features solved.
 
 ### 1.0
 Initial commit.
