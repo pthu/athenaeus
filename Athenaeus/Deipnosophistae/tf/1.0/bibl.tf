@@ -20,9 +20,9 @@
 @valueType=str
 @version=1.0
 @writtenBy=Text-Fabric
-@dateWritten=2019-07-10T11:04:27Z
+@dateWritten=2019-07-11T10:03:20Z
 
-278745	Od. 2.11
+278829	Od. 2.11
 p. 4 e
 cf. Plat. Phaed. init.
 Eratosth. fr. 37 Hill

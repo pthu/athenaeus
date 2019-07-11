@@ -20,7 +20,7 @@
 @valueType=str
 @version=1.0
 @writtenBy=Text-Fabric
-@dateWritten=2019-07-10T11:04:27Z
+@dateWritten=2019-07-11T10:03:19Z
 
 aqhnaios
 me
@@ -2626,7 +2626,7 @@ oia
 dh
 filos
 alla
-s1e
+s1s
 h
 gas1thr
 noon
@@ -5540,7 +5540,6 @@ puknws
 gar
 es1ti
 to
-tarfe
 ameibomenoi
 allwn
 efes1twtwn
@@ -13779,7 +13778,7 @@ melihdeos
 oinou
 pinomenhs
 mh
-s1e
+s1s
 ubris
 eni
 fres1i
@@ -24263,7 +24262,7 @@ de
 paroimia
 fhs1i
 oude
-s1e
+s1s
 onhs1ei
 bolbos
 an
@@ -24971,7 +24970,7 @@ fhs1i
 dus1thne
 kratos
 ws
-s1e
+s1s
 ekeire
 aqliws
 teixh
@@ -27667,7 +27666,6 @@ aei
 tris1ullabws
 alkaios
 de
-dakh
 fhs1i
 twn
 s1ikuwn
@@ -35911,7 +35909,7 @@ s1ardia
 aneu
 de
 tou
-s1e
+s1s
 lekteon
 para
 gar
@@ -36652,7 +36650,6 @@ dhmwn
 en
 de
 atqidos
-afeidanta
 fhs1i
 bas1ileuonta
 aqhnwn
@@ -40079,7 +40076,7 @@ kerkiw
 eruqroteron
 karidos
 opths
-s1e
+s1s
 apofanw
 euboulos
 titqais
@@ -45015,7 +45012,7 @@ genikh
 ouketi
 ecei
 to
-s1e
+s1s
 tos1authn
 de
 aqhnaioi
@@ -57925,7 +57922,6 @@ kai
 eikos1th
 twn
 is1toriwn
-keltoi
 fhs1i
 eniote
 para
@@ -69396,7 +69392,7 @@ emon
 katepaus1e
 diamperes
 ei
-s1e
+s1s
 ebalon
 per
 oqe
@@ -79348,13 +79344,13 @@ me
 fras1w
 talhqes
 ouxi
-s1e
+s1s
 eufranw
 ei
 de
 eufranw
 ti
-s1e
+s1s
 ouxi
 talhqes
 fras1w
@@ -82516,7 +82512,7 @@ dedakrus1ai
 file
 s1wkrates
 h
-s1e
+s1s
 anakinei
 s1ternois
 ennaiwn
@@ -85404,7 +85400,7 @@ hmeras
 ouxi
 metriws
 beltis1te
-s1e
+s1s
 alla
 uperhfanws
 ou
@@ -88882,7 +88878,7 @@ ou
 as1toxws
 alla
 an
-s1e
+s1s
 epainw
 mallon
 aiths1eis
@@ -91727,7 +91723,7 @@ oti
 h
 graus
 poiei
-s1e
+s1s
 en
 gas1tri
 lambanein
@@ -98695,7 +98691,6 @@ th
 enath
 twn
 is1toriwn
-ou
 hn
 fhs1i
 patrion
@@ -108825,7 +108820,7 @@ outws
 ou
 mh
 paralabw
-s1e
+s1s
 ouqamou
 drakwn
 egw
@@ -109046,7 +109041,7 @@ an
 ou
 de
 nun
-s1e
+s1s
 agw
 porneion
 es1ti
@@ -116076,7 +116071,7 @@ en
 mous1ais
 xwris
 tou
-s1e
+s1s
 murainas
 autas
 kalei
@@ -116103,7 +116098,7 @@ th
 s1ummaxia
 s1un
 tw
-s1e
+s1s
 batis
 te
 kai
@@ -120444,7 +120439,6 @@ en
 tois
 iambois
 eipontos
-s1hpihs
 upos1fagma
 oi
 echghs1amenoi
@@ -130044,7 +130038,7 @@ koilias
 polis
 de
 exous1a
-s1e
+s1s
 hmeran
 algei
 mian
@@ -131107,7 +131101,6 @@ en
 deuterw
 peri
 poihtwn
-s1tratonikos
 fhs1i
 o
 aqhnaios
@@ -131220,7 +131213,6 @@ einai
 kata
 ton
 kwmwdiopoion
-qaumata
 mwrois
 fhs1i
 gar
@@ -134076,7 +134068,7 @@ neanis1kon
 fhs1i
 alla
 antibolw
-s1e
+s1s
 epitatte
 moi
 mh
@@ -136971,7 +136963,7 @@ tines
 paroyides
 eis
 antibolw
-s1e
+s1s
 kan
 tois
 de
@@ -139041,7 +139033,6 @@ helioio
 kai
 allaxoqi
 qhlukws
-orniqi
 ligurh
 kai
 ws
@@ -139230,7 +139221,7 @@ lhda
 s1on
 ergon
 dei
-s1e
+s1s
 opws
 eus1xhmonos
 alektruonos
@@ -139516,7 +139507,7 @@ alkman
 de
 dia
 tou
-s1e
+s1s
 thn
 euqeian
 ekferei
@@ -139726,7 +139717,6 @@ en
 poihth
 arrenikws
 efh
-ton
 delfaka
 aphge
 s1igh
@@ -141604,7 +141594,6 @@ efippos
 efh
 en
 peltas1th
-enq
 onwn
 ippwn
 te
@@ -141858,7 +141847,7 @@ apodeicin
 ths
 texnhs
 aitw
-s1e
+s1s
 egw
 eis
 polemian
@@ -142923,7 +142912,6 @@ de
 en
 h
 nos1twn
-en
 deipnw
 fhs1i
 mellontwn
@@ -145586,7 +145574,7 @@ para
 omhrw
 xwris
 tou
-s1e
+s1s
 kwpas
 einai
 kai
@@ -145634,7 +145622,7 @@ deuterw
 omoiwn
 xwris
 tou
-s1e
+s1s
 kwpas
 autous
 onomazei
@@ -148937,7 +148925,7 @@ enwmoteron
 mh
 lupeitw
 de
-s1e
+s1s
 orwnta
 ixwra
 s1tazonta
@@ -149598,7 +149586,7 @@ es1ti
 umas
 s1un
 tw
-s1e
+s1s
 s1us
 etumwteron
 para
@@ -149620,7 +149608,7 @@ xwris
 tou
 kata
 arxas
-s1e
+s1s
 us
 oi
 de
@@ -163797,7 +163785,6 @@ nomoqetei
 en
 tw
 deuterw
-tous
 paidas
 mexri
 etwn
@@ -166886,7 +166873,7 @@ kai
 pindaros
 pros
 to
-s1e
+s1s
 epoihs1e
 wdhn
 oionei
@@ -167793,7 +167780,7 @@ oute
 akouwn
 ouq
 orwn
-s1e
+s1s
 pws
 gar
 genoito
@@ -168973,7 +168960,7 @@ egw
 oute
 emauton
 oute
-s1e
+s1s
 algunw
 ti
 taut
@@ -170726,10 +170713,10 @@ fhmi
 genes1qai
 apo
 tou
-s1e
+s1s
 eis
 to
-s1e
+s1s
 s1umpantwn
 danawn
 oude
@@ -170996,7 +170983,7 @@ oun
 opws
 dei
 touto
-s1e
+s1s
 ekpiein
 a
 egw
@@ -175228,7 +175215,7 @@ tous
 ippous
 tous
 to
-s1e
+s1s
 egkexaragmenon
 exontas
 s1amforas
@@ -176574,7 +176561,7 @@ allo
 deuro
 dh
 gemis1w
-s1e
+s1s
 egw
 grau
 qeoluth
@@ -177361,7 +177348,7 @@ oi
 de
 ek
 kadis1kou
-s1e
+s1s
 is1on
 is1w
 kekramenon
@@ -186590,7 +186577,7 @@ thn
 genikhn
 s1un
 tw
-s1e
+s1s
 proferontai
 dia
 pantos
@@ -186606,7 +186593,7 @@ ws
 luxnos
 aneu
 tou
-s1e
+s1s
 proois1omeqa
 ote
 de
@@ -186615,7 +186602,7 @@ to
 s1kufos
 s1un
 tw
-s1e
+s1s
 klinoume
 s1kufos
 s1kufous
@@ -198386,7 +198373,6 @@ triakos1th
 pempth
 twn
 eurwpiakwn
-arukandeis
 fhs1i
 lukias
 omoroi
@@ -200732,7 +200718,6 @@ kalou
 alkibiadou
 s1aturos
 is1torwn
-legetai
 fhs1i
 oti
 en
@@ -201348,7 +201333,6 @@ kai
 eikos1th
 twn
 is1toriwn
-paus1anias
 me
 fhs1i
 o
@@ -201491,7 +201475,6 @@ twn
 peri
 ths
 patridos
-paus1anias
 fhs1i
 o
 peri
@@ -239158,7 +239141,6 @@ th
 ogdoh
 twn
 is1toriwn
-markellos
 fhs1i
 dus1xrhs1toumenos
 en
@@ -240633,7 +240615,6 @@ de
 en
 ge
 atqidos
-lus1andros
 fhs1i
 o
 s1ikuwnios
@@ -240887,7 +240868,7 @@ argan
 boulomai
 kwdwnis1as
 pemyai
-s1e
+s1s
 agwnioumenon
 ina
 kai
@@ -251710,7 +251691,6 @@ de
 aqlon
 aris1tofanhs
 daitaleus1i
-egnwk
 egw
 de
 xalkion
@@ -260371,7 +260351,6 @@ kai
 to
 para
 anakreonti
-ludopaqhs
 akouous1i
 anti
 tou
@@ -261036,7 +261015,6 @@ en
 tois
 fus1ikois
 problhmas1i
-dia
 ti
 oi
 murizomenoi
@@ -263465,7 +263443,7 @@ pantwn
 andrwn
 bdelurwtate
 tis
-s1e
+s1s
 anepeis1e
 kalhn
 es
@@ -264495,7 +264473,7 @@ dimu
 cou
 ei
 a
-s1e
+s1s
 ai
 a
 culoluxnou
