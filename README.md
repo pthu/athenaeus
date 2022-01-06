@@ -8,3 +8,14 @@ Problem with improperly embedded `_sentence` features solved.
 
 ### 1.0
 Initial commit.
+
+## Name of the corpus
+
+This is a
+[Text-Fabric](https://github.com/annotation/text-fabric) app
+for working with the
+`athenaeus`
+corpus: The Deipnosophistae van Athenaeus.
+
+Get started with the
+[tutorial](https://nbviewer.jupyter.org/github/pthu/athenaeus/blob/master/tutorial/start.ipynb).

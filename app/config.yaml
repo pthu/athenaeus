@@ -1,0 +1,14 @@
+apiVersion: 3
+dataDisplay: {}
+docs: {}
+interfaceDefaults: {}
+provenanceSpec:
+  corpus: The Deipnosophistae by Athenaeus
+  relative: Athenaeus/Deipnosophistae/tf
+  version: '1.1'
+typeDisplay:
+  p:
+    label: '{p}'
+  word:
+    featuresBare: beta_plain
+writing: grc
